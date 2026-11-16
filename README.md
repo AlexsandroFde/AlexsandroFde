@@ -89,3 +89,24 @@ I've built 35+ projects so far; here are some of them. The previews open my [por
     </td>
   </tr>
 </table>
+
+<details>
+<summary><b>Other projects (10)</b></summary>
+<br>
+
+| Project | What it is | Stack | Year |
+| --- | --- | --- | :-: |
+| [SMS](https://github.com/AlexsandroFde/SMS) | Instant messenger in Java RMI with a Swing interface | Java · RMI · Swing | 2026 |
+| [3D Rendering](https://github.com/AlexsandroFde/3D_Rendering) | 3D rendering with perspective projection and rasterization | Python · Matplotlib · PIL | 2025 |
+| V-Car&nbsp;🔒 | Customer, order and staff management for a car wash | JavaScript · Node.js · Express | 2024 |
+| LIT Portfolio&nbsp;🔒 | The lab's institutional website, integrated with G-LIT | Vue.js | 2023 |
+| [Meu Busão](https://github.com/AlexsandroFde/Meu_Busao) | Buying and swapping seats on bus trips | Flutter · Dart · MySQL | 2023 |
+| [Math Tool Kit](https://github.com/AlexsandroFde/Math_Tool_Kit) | Number bases, linear systems and roots of equations | C | 2023 |
+| [Discord Bot](https://github.com/AlexsandroFde/Bot_Discord) | Moderation and automation bot for Discord servers | Python · discord.py | 2023 |
+| TV&nbsp;Automation&nbsp;🔒 | TV control and scheduling with Raspberry Pi | Python · Raspberry Pi | 2023 |
+| [Sort Analytics](https://github.com/AlexsandroFde/Sort_Analytics) | Performance comparison of six sorting algorithms | Python | 2023 |
+| [TradeIt](https://github.com/AlexsandroFde/TradeIt) | Game trading between users, with Firebase sign-in | Flutter · Dart · Firebase | 2022 |
+
+🔒 Private repository · [All public repositories](https://github.com/AlexsandroFde?tab=repositories)
+
+</details>
