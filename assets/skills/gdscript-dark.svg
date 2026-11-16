@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="272" height="256" viewBox="0 0 272 256" fill="none">
+  <title>GDScript</title>
+  <!-- Ícone do GDScript no editor do Godot (godotengine/godot, licença MIT), em azul Godot. A margem de 16 à esquerda, somada ao espaço entre as imagens, iguala o espaçamento do skillicons. -->
+  <g transform="translate(16 0)">
+    <rect width="256" height="256" rx="60" fill="#242938"/>
+    <path transform="translate(36 36) scale(11.5)" fill="#478CBF" fill-rule="evenodd" d="m7 1-.565 2.258a5 5 0 0 0-.689.28L3.758 2.343 2.344 3.758l1.195 1.994a5 5 0 0 0-.285.685L1 7v2l2.258.564a5 5 0 0 0 .279.688l-1.193 1.99 1.414 1.414 1.994-1.195a5 5 0 0 0 .685.285L7 15h2l.564-2.258a5 5 0 0 0 .688-.28l1.99 1.194 1.414-1.414-1.195-1.994a5 5 0 0 0 .285-.685L15 9V7l-2.258-.564a5 5 0 0 0-.28-.688l1.194-1.99-1.414-1.414-1.994 1.195a5 5 0 0 0-.686-.285L9 1H7zm1 5a2 2 0 0 1 0 4 2 2 0 0 1 0-4z"/>
+  </g>
+</svg>
