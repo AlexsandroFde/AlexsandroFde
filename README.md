@@ -211,3 +211,18 @@ I've built 35+ projects so far; here are some of them. The previews open my [por
     <td>Building Android/iOS/Web Apps with Flutter · React Native: Build Native Apps for Android and iOS · Complete Java: Object-Oriented Programming + Projects · Introduction to Android Development · Python 3 · Introduction to Programming</td>
   </tr>
 </table>
+
+### On GitHub
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AlexsandroFde&background=0D111700&border=3D444D&stroke=3D444D&ring=7CB8DD&fire=7CB8DD&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=7CB8DD&sideLabels=9198A1&dates=9198A1&border_radius=12">
+    <img height="165" alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=AlexsandroFde&background=FFFFFF00&border=D1D9E0&stroke=D1D9E0&ring=2D5473&fire=2D5473&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=2D5473&sideLabels=59636E&dates=59636E&border_radius=12">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexsandroFde&layout=compact&langs_count=5&hide=html%2Ccss&custom_title=Most%20used%20languages&bg_color=0D111700&title_color=7CB8DD&text_color=F0F6FC&border_color=3D444D&border_radius=12">
+    <img height="165" alt="Most used languages in public repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexsandroFde&layout=compact&langs_count=5&hide=html%2Ccss&custom_title=Most%20used%20languages&bg_color=FFFFFF00&title_color=2D5473&text_color=1F2328&border_color=D1D9E0&border_radius=12">
+  </picture>
+</p>
+
+<p align="center"><sub>Languages are counted from public repositories only.</sub></p>
