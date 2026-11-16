@@ -110,3 +110,39 @@ I've built 35+ projects so far; here are some of them. The previews open my [por
 🔒 Private repository · [All public repositories](https://github.com/AlexsandroFde?tab=repositories)
 
 </details>
+
+## <samp>03</samp> Background
+
+### Education
+
+<table>
+  <tr>
+    <td width="160" valign="top"><samp>2021 – 2026</samp></td>
+    <td><b>Bachelor's in Computer Engineering</b> · IFCE, Fortaleza campus<br>Main courses: Data Structures, Object-Oriented Programming, Databases, Searching and Sorting, Microcontrollers and Microprocessors.</td>
+  </tr>
+</table>
+
+### Experience and activities
+
+<table>
+  <tr>
+    <td width="160" valign="top"><samp>May 2025 – present</samp></td>
+    <td><b><a href="https://institutoiracema.org.br/pt">Instituto Iracema</a></b> · Software Developer · Sala Braille<br>An app with remote lessons and progress tracking for each student, part of an ecosystem that also includes physical devices such as SlateBraille, NoteBraille and BrailleBoard.</td>
+  </tr>
+  <tr>
+    <td width="160" valign="top"><samp>Nov 2024</samp></td>
+    <td><b>ENICIT</b> · Research presentation<br>I presented research on using convolutional neural networks (CNNs) to support racial hetero-identification from facial images. I explained the Transfer Learning methodology, the statistical results and the technical and social implications of the solution.</td>
+  </tr>
+  <tr>
+    <td width="160" valign="top"><samp>May 2024</samp></td>
+    <td><b>Freelance Developer</b> · Website for a car wash</td>
+  </tr>
+  <tr>
+    <td width="160" valign="top"><samp>Nov 2022</samp></td>
+    <td><b>Knowledge Fair</b> · Exhibitor<br>I presented and supervised projects, exchanging and absorbing innovative ideas.</td>
+  </tr>
+  <tr>
+    <td width="160" valign="top"><samp>Oct 2022</samp></td>
+    <td><b>Techstars Startup Weekend Fortaleza</b> · 🥇 1st place<br>I was part of a startup's founding team. I attended the talks that supported the project's development, we collected data and refined the idea, and I prepared the winning pitch.</td>
+  </tr>
+</table>
