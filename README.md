@@ -146,3 +146,68 @@ I've built 35+ projects so far; here are some of them. The previews open my [por
     <td><b>Techstars Startup Weekend Fortaleza</b> · 🥇 1st place<br>I was part of a startup's founding team. I attended the talks that supported the project's development, we collected data and refined the idea, and I prepared the winning pitch.</td>
   </tr>
 </table>
+
+## <samp>04</samp> Skills
+
+<table>
+  <tr>
+    <td width="160"><b>Main stack</b><br><sub>What I use most, day to day</sub></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cpy%2Creact%2Cflutter&theme=dark">
+        <img height="40" align="absmiddle" alt="TypeScript, Python, React and Flutter" src="https://skillicons.dev/icons?i=ts%2Cpy%2Creact%2Cflutter&theme=light">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td width="160"><b>Languages</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cdart%2Cjava%2Cc%2Cswift&theme=dark">
+        <img height="40" align="absmiddle" alt="JavaScript, Dart, Java, C and Swift" src="https://skillicons.dev/icons?i=js%2Cdart%2Cjava%2Cc%2Cswift&theme=light">
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/skills/gdscript-dark.svg">
+        <img height="40" align="absmiddle" alt="GDScript" src="assets/skills/gdscript-light.svg">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td width="160"><b>Frameworks</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue%2Cnestjs%2Cnodejs%2Celectron%2Cgodot&theme=dark">
+        <img height="40" align="absmiddle" alt="Vue.js, NestJS, Node.js, Electron and Godot" src="https://skillicons.dev/icons?i=vue%2Cnestjs%2Cnodejs%2Celectron%2Cgodot&theme=light">
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/skills/react-native-dark.svg">
+        <img height="40" align="absmiddle" alt="React Native" src="assets/skills/react-native-light.svg">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td width="160"><b>Tools</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cmysql%2Cfirebase%2Cvscode%2Candroidstudio%2Craspberrypi%2Carduino&theme=dark">
+        <img height="40" align="absmiddle" alt="Git, GitHub, MySQL, Firebase, VS Code, Android Studio, Raspberry Pi and Arduino" src="https://skillicons.dev/icons?i=git%2Cgithub%2Cmysql%2Cfirebase%2Cvscode%2Candroidstudio%2Craspberrypi%2Carduino&theme=light">
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/skills/ollama-dark.svg">
+        <img height="40" align="absmiddle" alt="Ollama" src="assets/skills/ollama-light.svg">
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/skills/proteus-dark.svg">
+        <img height="40" align="absmiddle" alt="Proteus" src="assets/skills/proteus-light.svg">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td width="160"><b>Soft skills</b></td>
+    <td>Teamwork · Effective communication · Problem solving · Project management · Fast learning</td>
+  </tr>
+  <tr>
+    <td width="160"><b>Courses</b></td>
+    <td>Building Android/iOS/Web Apps with Flutter · React Native: Build Native Apps for Android and iOS · Complete Java: Object-Oriented Programming + Projects · Introduction to Android Development · Python 3 · Introduction to Programming</td>
+  </tr>
+</table>
